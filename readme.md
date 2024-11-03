@@ -2,4 +2,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0B2734&width=500&height=120&lines=Hello+World%2C+I'm+Andrew;Curiosity+is+my+drug;Great+to+see+you+here!)](https://git.io/typing-svg)
 
-🫠 Hello world, my name is Andrew Tran, a rising sophomore Vietnamese student at Case Western Reserve University, Cleveland, Ohio. Welcome to my world!
+🫠 Hello world, my name is Andrew Tran, a rising senior at Case Western Reserve University. Welcome to my humble drafts!
